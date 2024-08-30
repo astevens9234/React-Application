@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Application.Activities;
 using Allication.Activities;
-using Application;
 
 namespace API.Controllers
 {
